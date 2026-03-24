@@ -2,7 +2,8 @@ import './style.css'
 // import  './bases/01-basic-syntax'
 // import  './bases/02-variables'
 // import  './bases/03-object-literal'
-import './bases/04-arrays'
+// import './bases/04-arrays'
+import './bases/05-functions'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">
