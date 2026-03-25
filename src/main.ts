@@ -9,7 +9,9 @@ import './style.css'
 // import './data/heroes.data'
 // import {getHeroesByOwner} from "./bases/08-imp-exp";
 // import {Owner} from "./data/owner";
-import './bases/09-promises'
+// import './bases/09-promises'
+// import './bases/10-fetch-api'
+import './bases/11-async-await.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">
   <h1>Hello Vite and hello World!</h1>

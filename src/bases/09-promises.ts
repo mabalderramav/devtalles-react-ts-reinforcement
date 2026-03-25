@@ -4,7 +4,7 @@ const myPromise = new Promise<number>((resolve, reject) => {
     }, 2000);
     setTimeout(() => {
         reject(new Error('I am sorry, I lost my money'));
-    }, 1000);
+    }, 5000);
 });
 
 try {
